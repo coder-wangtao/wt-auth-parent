@@ -1,0 +1,7 @@
+#主文件
+#激活开发文件
+spring:
+  profiles:
+    active: dev
+  application:
+    name: service-system
