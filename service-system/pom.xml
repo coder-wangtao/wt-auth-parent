@@ -46,7 +46,7 @@
             <version>1.0</version>
         </dependency>
     </dependencies>
-    <!--  hotfix  -->
+    <!--  hotfix branch  -->
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
