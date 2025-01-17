@@ -46,8 +46,7 @@
             <version>1.0</version>
         </dependency>
     </dependencies>
-
-
+    <!-- master   -->
     <build>
         <finalName>${project.artifactId}</finalName>
         <plugins>
